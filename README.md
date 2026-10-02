@@ -11,6 +11,10 @@
 
 **데모 영상**: https://youtube.com/shorts/AIaOgSmeSIs?feature=share
 
+
+<img width="446" height="475" alt="가사 캡쳐" src="https://github.com/user-attachments/assets/389a2721-39a8-4dce-8d64-b6397587d9bb" />
+
+
 ---
 
 ## 이게 뭘 하는 물건인가요
