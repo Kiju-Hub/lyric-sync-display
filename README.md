@@ -4,8 +4,7 @@
 
 노래 제목도, 가사 파일도 따로 입력할 필요 없이 — Spotify나 YouTube에서 평소처럼 음악을 틀기만 하면 알아서 가사가 뜹니다.
 
-![demo](docs/demo.gif)
-<!-- TODO: 실제 동작 영상/GIF로 교체 -->
+**데모 영상**: https://youtube.com/shorts/AIaOgSmeSIs?feature=share
 
 ---
 
