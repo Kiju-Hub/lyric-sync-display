@@ -1,6 +1,6 @@
-# lyric-sync-display
+# lyric-sync-display _ 실시간 가사 동기화 디스플레이
 
-평소에 저는 음악을 즐겨듣는 것을 취미로 합니다
+** 평소에 저는 음악을 즐겨듣는 것을 취미로 합니다 **
 
 
 <img width="446" height="475" alt="가사 캡쳐" src="https://github.com/user-attachments/assets/389a2721-39a8-4dce-8d64-b6397587d9bb" />
