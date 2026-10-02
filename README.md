@@ -2,6 +2,12 @@
 
 평소에 저는 음악을 즐겨듣는 것을 취미로 합니다
 
+
+<img width="446" height="475" alt="가사 캡쳐" src="https://github.com/user-attachments/assets/389a2721-39a8-4dce-8d64-b6397587d9bb" />
+
+
+
+
 이 프로젝트는 
 지금 PC에서 재생 중인 노래를 자동으로 감지하고, 동기화 가사를 인터넷에서 찾아와 ESP32 + OLED 디스플레이에 실시간으로 보여주는 임베디드 프로젝트입니다.
 
@@ -12,12 +18,11 @@
 **데모 영상**: https://youtube.com/shorts/AIaOgSmeSIs?feature=share
 
 
-<img width="446" height="475" alt="가사 캡쳐" src="https://github.com/user-attachments/assets/389a2721-39a8-4dce-8d64-b6397587d9bb" />
 
 
 ---
 
-## 이게 뭘 하는 물건인가요
+## 이 임베디드 프로젝트는 무엇을 이야기하나요?
 
 1. PC에서 지금 재생 중인 곡(제목/아티스트/재생 위치)을 자동 감지
 2. LRCLIB에서 동기화 가사(타임스탬프 있는 LRC)를 자동 검색
